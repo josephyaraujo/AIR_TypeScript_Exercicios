@@ -1,3 +1,5 @@
+// Exercício 6 - Criar uma interface, em seguida, criar duas classes que implementam a interface com pelo menos um método.
+// Implementar o método em ambas as classes. Por fim, testar as classes criando instâncias e chamando o método implementado.
 interface Obra {
     descrever(): string;
 }
